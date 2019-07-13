@@ -8,7 +8,9 @@ https://www.bountysource.com/issues/{number}-{name}/
 https://www.bountysource.com/issues/76879471-example
 
 76879471 = {number}
+
 example = {name}
+
 
 Sometimes it auto-shortens longer names.
 
