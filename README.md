@@ -22,7 +22,7 @@ Sometimes it auto-shortens longer names.
 
 Add Widget like this:
 
-```'[![Bountysource](https://api.bountysource.com/badge/issue?issue_id={number})]({bounty-URL})```
+```[![Bountysource](https://api.bountysource.com/badge/issue?issue_id={number})]({bounty-URL})```
 
 
 Example:
