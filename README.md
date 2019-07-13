@@ -35,3 +35,6 @@ Which looks like:
 [![Bountysource](https://api.bountysource.com/badge/issue?issue_id=76879471)](https://www.bountysource.com/issues/76879471-example)
 
 **Note**: This example should work everywhere markdown is supported :)
+
+## License
+Unless Otherwise noted, this material is licensed under the [GNU FDL](https://github.com/jkhgvfgvsth/BountySource-Widget/blob/master/LICENSE/LICENSE.txt) license.
