@@ -37,4 +37,4 @@ Which looks like:
 **Note**: This example should work everywhere markdown is supported :)
 
 ## License
-Unless Otherwise noted, this material is licensed under the [GNU FDL](https://github.com/jkhgvfgvsth/BountySource-Widget/blob/master/LICENSE/LICENSE.txt) license.
+Unless otherwise noted, this material is licensed under the [GNU FDL](https://github.com/jkhgvfgvsth/BountySource-Widget/blob/master/LICENSE/LICENSE.txt) license.
